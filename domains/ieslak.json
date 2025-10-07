@@ -1,0 +1,11 @@
+{
+  "description": "My Cloudflare Pages site",
+  "subdomain": "ieslak",
+  "owner": {
+    "username": "callu4580-hub",
+    "email": "callu4580@gmail.com"
+  },
+  "record": {
+    "CNAME": "ieslak.pages.dev"
+  }
+}
